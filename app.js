@@ -6,6 +6,7 @@ const TypeWriter = function(txtElement, words, wait = 3000) {
   this.wait = parseInt(wait, 10);
   this.type();
   this.isDeleting = false;
+  //const
 }
 
 // type method
